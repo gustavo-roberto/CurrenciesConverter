@@ -1,4 +1,4 @@
-# CurrenciesConverte
+# CurrenciesConverter
 O projeto consiste em um conversor de câmbio simples para 4 tipos de moedas: euro, dolar, peso argentino e peso chileno, utilizando conceitos de SOLID, Design Patterns  e Scrum. Aplicação desenvolvida para atividade do curso Itau Devs Experts, com a Lets Code. 
 
 # Link do Miro com Sprint e Product Backlog:
