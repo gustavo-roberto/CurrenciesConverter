@@ -4,7 +4,7 @@ O projeto consiste em um conversor de câmbio simples para 4 tipos de moedas: eu
 # Link do Miro com Sprint e Product Backlog:
 https://miro.com/app/board/uXjVPdiUbCs=/?share_link_id=224003262632
 
-# Integrantes do grupo
+# Integrantes do grupo (Squad 2)
 Andressa Paula Castro de Oliveira <br />
 Gustavo Roberto Matos dos Santos  <br />
 Gustavo Tavares De Oliveira Santos  <br />
