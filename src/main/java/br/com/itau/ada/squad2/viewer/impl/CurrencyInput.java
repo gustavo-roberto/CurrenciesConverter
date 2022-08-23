@@ -1,8 +1,8 @@
-package br.com.itau.ada.squad2.viwer.impl;
+package br.com.itau.ada.squad2.viewer.impl;
 
 import br.com.itau.ada.squad2.util.Messages;
-import br.com.itau.ada.squad2.viwer.Input;
-import br.com.itau.ada.squad2.viwer.Output;
+import br.com.itau.ada.squad2.viewer.Input;
+import br.com.itau.ada.squad2.viewer.Output;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -21,7 +21,7 @@ public class CurrencyInput implements Input {
             try {
                 return new Scanner(System.in).nextDouble();
             } catch (InputMismatchException ex) {
-                output.showMessage(Messages.ERRO_INPUT_MISMATCH_EXCEPTION.getMessage());
+                output.showMessage(Messages.INVALID_INPUT.getMessage());
             }
         }
     }
@@ -32,7 +32,7 @@ public class CurrencyInput implements Input {
             try {
                 return new Scanner(System.in).nextInt();
             }catch(InputMismatchException ex){
-                output.showMessage(Messages.ERRO_INPUT_MISMATCH_EXCEPTION.getMessage());
+                output.showMessage(Messages.INVALID_INPUT.getMessage());
             }
         }
     }

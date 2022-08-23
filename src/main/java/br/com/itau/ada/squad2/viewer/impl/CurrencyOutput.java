@@ -1,8 +1,8 @@
-package br.com.itau.ada.squad2.viwer.impl;
+package br.com.itau.ada.squad2.viewer.impl;
 
 import br.com.itau.ada.squad2.model.dto.ConversionResultDTO;
 import br.com.itau.ada.squad2.util.Messages;
-import br.com.itau.ada.squad2.viwer.Output;
+import br.com.itau.ada.squad2.viewer.Output;
 
 public class CurrencyOutput implements Output {
 

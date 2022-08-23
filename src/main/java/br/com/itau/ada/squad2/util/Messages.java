@@ -7,7 +7,7 @@ public enum Messages {
     VALUE_IOF("IOF ->"),
     VALUE_OPERATION_TAX("Taxa de operação ->"),
     VALUE_TOTAL_CONVERTED("Total Convertido ->"),
-    ERRO_INPUT_MISMATCH_EXCEPTION("Informe uma entrada válida."),
+    INVALID_INPUT("Informe uma entrada válida."),
     SEPARATOR("-----------------------------"),
     EXIT_MESSAGE("Fim da execução :)");
 

@@ -1,4 +1,4 @@
-package br.com.itau.ada.squad2.viwer;
+package br.com.itau.ada.squad2.viewer;
 
 import br.com.itau.ada.squad2.model.dto.ConversionResultDTO;
 

@@ -18,31 +18,15 @@ public class ConversionResultDTO {
         return iof;
     }
 
-    public void setIof(double iof) {
-        this.iof = iof;
-    }
-
     public double getTaxes() {
         return taxes;
-    }
-
-    public void setTaxes(double taxes) {
-        this.taxes = taxes;
     }
 
     public double getTotalConverted() {
         return totalConverted;
     }
 
-    public void setTotalConverted(double totalConverted) {
-        this.totalConverted = totalConverted;
-    }
-
     public String getCurrencySymbol() {
         return currencySymbol;
-    }
-
-    public void setCurrencySymbol(String currencySymbol) {
-        this.currencySymbol = currencySymbol;
     }
 }

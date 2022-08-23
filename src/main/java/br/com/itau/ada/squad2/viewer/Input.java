@@ -1,4 +1,4 @@
-package br.com.itau.ada.squad2.viwer;
+package br.com.itau.ada.squad2.viewer;
 
 public interface Input {
     public Double getDouble();
